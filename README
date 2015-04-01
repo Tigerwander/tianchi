@@ -1,0 +1,25 @@
+'user_operation_record.txt'
+format
+user_id: 
+		category_id: 
+					good_id:
+							operation time
+
+operation:
+1 浏览
+2 收藏
+3 加入购物车
+4 购买
+
+'good_classify.txt'
+format
+
+category_id:
+		good_id good_location
+
+
+
+
+
+
+
